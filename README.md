@@ -1,10 +1,10 @@
 ## Running Projects 
-- [AutoCut V2](https://github.com/hemangjoshi37a/AutoCut).
+- [AutoCut V2](https://github.com/hemangjoshi37a/AutoCut)
 - AutoStrip.
-- [SWiBoard (WiFi Switch Board Converter)](https://github.com/hemangjoshi37a/SWiBoard).
-- [ESP Matrix Display](https://hjlabs.in/product/wifi-iot-led-display).
+- [SWiBoard (WiFi Switch Board Converter)](https://github.com/hemangjoshi37a/SWiBoard)
+- [ESP Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
 - ESP32 CCTV Cam with recording in SD card and with Audio.
-- [App for SWiBoard (auto add device by scanning local network tasmota devices)](https://github.com/hemangjoshi37a/SWiBoard).
+- [App for SWiBoard (auto add device by scanning local network tasmota devices)](https://github.com/hemangjoshi37a/SWiBoard)
 
 ## Future Projects 
 - ESP32 Cam based Multi-person-multi-camera-tracker-with-reidentification-and-database-logging-with-activity-identification.
