@@ -19,6 +19,9 @@
 - Solar Boat/RV/Motor-home.
 - Chip manufacturing.
 - Telegram message based auto backtesting against old stockmarket data.
+- Photogrametry web API for creating 3D plans for real estate brokers.
+- Solar peliter water desalination module
+- Pani-puri vending machine with UPI payment method and automatic water dispensing system.
 
 
 
