@@ -28,9 +28,9 @@
 
 ----------------------------------
 ## Contact us :
-- Call, SMS, Whatsapp, Telegram : [+919409077371](tel:+919409077371)  [+917016525813](tel:+917016525813)
-- Email : hemangjoshi37a@gmail.com
-- Website : [hjlabs.in](https://hjlabs.in)
+- Call 📞, SMS 💬, Whatsapp, Telegram : [+919409077371](tel:+919409077371)  [+917016525813](tel:+917016525813)
+- Email 📧 : hemangjoshi37a@gmail.com
+- Website 🌐 : [hjlabs.in](https://hjlabs.in)
 
 ## Checkout Our Other Repositories:
 - [pyPortMan](https://github.com/hemangjoshi37a/pyPortMan)
