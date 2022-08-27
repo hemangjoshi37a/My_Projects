@@ -22,7 +22,9 @@
 - Photogrametry web API for creating 3D plans for real estate brokers.
 - Solar peliter water desalination module
 - Pani-puri vending machine with UPI payment method and automatic water dispensing system.
-
+- RGB Led matrix cube for advertisement and show piece for restaurants and hotels with live photogrametry to 3d visulization with clear epoxy as filler.
+- Road side ways advertisement led matrix display with web api for auto upload for video and photo with auto qr UPI based payments and auto ad price decide using user loading.
+- Photogrametry based clothers laser cutter and stitcher for best fit clothes.
 
 
 
