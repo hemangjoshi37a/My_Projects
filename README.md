@@ -1,18 +1,25 @@
 ![](https://hjlabs.in/wp-content/uploads/2022/05/rainbow-text-1.png "Image Title")
 
-## Running Projects 
-- [AutoCut V2](https://github.com/hemangjoshi37a/AutoCut)
-- AutoStrip.
-- [SWiBoard (WiFi Switch Board Converter)](https://github.com/hemangjoshi37a/SWiBoard)
-- [ESP Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
-- ESP32 CCTV Cam with recording in SD card and with Audio.
-- [App for SWiBoard (auto add device by scanning local network tasmota devices)](https://github.com/hemangjoshi37a/SWiBoard)
+# Running Projects 
+#### [AutoCut V2](https://github.com/hemangjoshi37a/AutoCut) 
+ - [ ] Online order for custom strip and cut sizes of wires. 
+ - [ ] add online live video stream using esp32cam.
+#### AutoStrip. 
+ - [ ] dis-assemble
+#### [SWiBoard (WiFi Switch Board Converter)](https://github.com/hemangjoshi37a/SWiBoard) 
+ - [ ] Design custom case 
+ - [ ] Order new acrylic parts.
+ - [ ] Order new version custom PCB. 
+ - [ ] Add documentation on github.
+#### [ESP Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
+#### ESP32 CCTV Cam with recording in SD card and with Audio.
+#### [App for SWiBoard (auto add device by scanning local network tasmota devices)](https://github.com/hemangjoshi37a/SWiBoard)
 
-## Future Projects 
+# Future Projects 
 - ESP32 Cam based Multi-person-multi-camera-tracker-with-reidentification-and-database-logging-with-activity-identification.
 - Laser CO2 cutter with online auto order accept and manufacture using qr/UPI payment and delivery and telegram bot.
 - Internet connected language model for formatted(json) data extraction.
-- ESP32 Camera case.
+- ESP32 Camera case. and connect to wordpress website.
 - Robot dog based auto inventory/stock handling, databasing and e-commerce content creation.
 - AI Educational chatbot using custom trained BLOOM model subject-wise.
 - Solar Boat/RV/Motor-home.
@@ -28,6 +35,8 @@
 - Auto material handling bot : 3d point cloud scanner -> object.rec. with boundry in 3d space. and databasing location.-> Determine best place to grab for most optimised motor operations. -> picking with robotic hand. -> path planning to reach destination. -> placing object to destination.
 - Auto labelled ML training data generator for 3d vision. : scan 3d point cloud. -> convert to geometry/object. -> take random position photographs of generated geometry/object with location/mask and point cloud data with random background and random rotated positions. -> save the data to proper format (i.e. photos to PNG, location/mask data to csv).
 - https://plainsight.ai/ ripoff. : initially wait for first image annotation.(auto boundary from square to fit) -> determine best model size and structure for given image size. -> Train model continuesly using first annotation. and predict rest samples in parrellel. (while saperating already human annotated dataset and model predicted dataset.) -> Show next image with predicted annotation and ask for changes from client/person. person edits annotation and clicks on save&next as the sample is moved from predicted to human annotated dataset. -> process continues untill all samples are done. -> provide provisional model and annotations.
+- Backup raspberry pi server for all laptop and other data backup using ssd.
+
 
 --------------------------------------------------------------
 ## Contact us :
