@@ -10,7 +10,7 @@
 
 ## Future Projects 
 - ESP32 Cam based Multi-person-multi-camera-tracker-with-reidentification-and-database-logging-with-activity-identification.
-- Laser CO2 cutter with online auto order accept and manufacture using qr/UPI payment and delivery.
+- Laser CO2 cutter with online auto order accept and manufacture using qr/UPI payment and delivery and telegram bot.
 - Student classroom activity tracker.
 - Internet connected language model
 - ESP32 Camera case.
@@ -21,9 +21,9 @@
 - Telegram message based auto backtesting against old stockmarket data.
 - Photogrametry web API for creating 3D plans for real estate brokers.
 - Solar peliter water desalination module
-- Pani-puri vending machine with UPI payment method and automatic water dispensing system.
+- Pani-puri vending machine with UPI payment method and telegram bot and automatic water dispensing system.
 - RGB Led matrix cube for advertisement and show piece for restaurants and hotels with live photogrametry to 3d visulization with clear epoxy as filler.
-- Road side ways advertisement led matrix display with web api for auto upload for video and photo with auto qr UPI based payments and auto ad price decide using user loading.
+- Road-side-ways/High-rise-building advertisement led matrix display with web api or telegram bot for auto upload for video and photo with auto qr UPI based payments and auto ad price decide using user loading.
 - Photogrametry based clothers laser cutter and stitcher for best fit clothes.
 
 
