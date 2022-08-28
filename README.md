@@ -11,14 +11,13 @@
 ## Future Projects 
 - ESP32 Cam based Multi-person-multi-camera-tracker-with-reidentification-and-database-logging-with-activity-identification.
 - Laser CO2 cutter with online auto order accept and manufacture using qr/UPI payment and delivery and telegram bot.
-- Student classroom activity tracker.
-- Internet connected language model
+- Internet connected language model for formatted(json) data extraction.
 - ESP32 Camera case.
 - Robot dog based auto inventory/stock handling, databasing and e-commerce content creation.
-- AI Educational chatbot.
+- AI Educational chatbot using custom trained BLOOM model subject-wise.
 - Solar Boat/RV/Motor-home.
 - Chip manufacturing.
-- Telegram message based auto backtesting against old stockmarket data.
+- Telegram message based auto backtesting against old stockmarket data using custom BLOOM model.
 - Photogrametry web API for creating 3D plans for real estate brokers.
 - Solar peliter water desalination module
 - Pani-puri vending machine with UPI payment method and telegram bot and automatic water dispensing system.
