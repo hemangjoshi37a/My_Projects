@@ -27,7 +27,7 @@
 - Auto manufacturing : 3d scanned point cloud -> Object/Geometry recognition and material recognition -> Language model for NC code generator -> Auto material and manufacturing cost calculation -> Manufacturing and delivering job to client. Take order online through e-commerece website or chat bot (WhatsApp/Telegram).
 - Auto material handling bot : 3d point cloud scanner -> object.rec. with boundry in 3d space. and databasing location.-> Determine best place to grab for most optimised motor operations. -> picking with robotic hand. -> path planning to reach destination. -> placing object to destination.
 - Auto labelled ML training data generator for 3d vision. : scan 3d point cloud. -> convert to geometry/object. -> take random position photographs of generated geometry/object with location/mask and point cloud data with random background and random rotated positions. -> save the data to proper format (i.e. photos to PNG, location/mask data to csv).
-
+- https://plainsight.ai/ ripoff. 
 
 ----------------------------------
 ## Contact us :
