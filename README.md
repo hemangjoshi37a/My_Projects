@@ -10,7 +10,7 @@
 
 ## Future Projects 
 - ESP32 Cam based Multi-person-multi-camera-tracker-with-reidentification-and-database-logging-with-activity-identification.
-- Laser CO2 cutter.
+- Laser CO2 cutter with online auto order accept and manufacture using qr/UPI payment and delivery.
 - Student classroom activity tracker.
 - Internet connected language model
 - ESP32 Camera case.
