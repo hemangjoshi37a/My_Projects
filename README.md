@@ -24,6 +24,7 @@
 - RGB Led matrix cube for advertisement and show piece for restaurants and hotels with live photogrametry to 3d visulization with clear epoxy as filler.
 - Road-side-ways/High-rise-building advertisement led matrix display with web api or telegram bot for auto upload for video and photo with auto qr UPI based payments and auto ad price decide using user loading.
 - Photogrametry based clothers laser cutter and stitcher for best fit clothes.
+- 3d scanned point cloud -> Object/Geometry recognition and material recognition -> Language model for NC code generator -> Auto material and manufacturing cost calculation -> Manufacturing and delivering job to client. Take order online through e-commerece website or chat bot (WhatsApp/Telegram).
 
 
 
