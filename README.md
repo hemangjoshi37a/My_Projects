@@ -19,13 +19,14 @@
 - Chip manufacturing.
 - Telegram message based auto backtesting against old stockmarket data using custom BLOOM model.
 - Photogrametry web API for creating 3D plans for real estate brokers.
-- Solar peliter water desalination module
+- Solar peliter water desalination module.
 - Pani-puri vending machine with UPI payment method and telegram bot and automatic water dispensing system.
 - RGB Led matrix cube for advertisement and show piece for restaurants and hotels with live photogrametry to 3d visulization with clear epoxy as filler.
 - Road-side-ways/High-rise-building advertisement led matrix display with web api or telegram bot for auto upload for video and photo with auto qr UPI based payments and auto ad price decide using user loading.
-- Photogrametry based clothers laser cutter and stitcher for best fit clothes.
-- 3d scanned point cloud -> Object/Geometry recognition and material recognition -> Language model for NC code generator -> Auto material and manufacturing cost calculation -> Manufacturing and delivering job to client. Take order online through e-commerece website or chat bot (WhatsApp/Telegram).
-
+- Auto Clothes AI : Determine client body shape and size using webcam and 3d photogrametry. -> Clothers laser cutter and stitcher for best fit clothes.
+- Auto manufacturing : 3d scanned point cloud -> Object/Geometry recognition and material recognition -> Language model for NC code generator -> Auto material and manufacturing cost calculation -> Manufacturing and delivering job to client. Take order online through e-commerece website or chat bot (WhatsApp/Telegram).
+- Auto material handling bot : 3d point cloud scanner -> object.rec. with boundry in 3d space. and databasing location.-> Determine best place to grab for most optimised motor operations. -> picking with robotic hand. -> path planning to reach destination. -> placing object to destination.
+- Auto labelled ML training data generator for 3d vision. : scan 3d point cloud. -> convert to geometry/object. -> take random position photographs of generated geometry/object with location/mask and point cloud data with random background and random rotated positions. -> save the data to proper format (i.e. photos to PNG, location/mask data to csv).
 
 
 ----------------------------------
