@@ -36,7 +36,8 @@
 - Auto labelled ML training data generator for 3d vision. : scan 3d point cloud. -> convert to geometry/object. -> take random position photographs of generated geometry/object with location/mask and point cloud data with random background and random rotated positions. -> save the data to proper format (i.e. photos to PNG, location/mask data to csv).
 - https://plainsight.ai/ ripoff. : initially wait for first image annotation.(auto boundary from square to fit) -> determine best model size and structure for given image size. -> Train model continuesly using first annotation. and predict rest samples in parrellel. (while saperating already human annotated dataset and model predicted dataset.) -> Show next image with predicted annotation and ask for changes from client/person. person edits annotation and clicks on save&next as the sample is moved from predicted to human annotated dataset. -> process continues untill all samples are done. -> provide provisional model and annotations.
 - Backup raspberry pi server for all laptop and other data backup using ssd.
-
+- Android LiFi communication using Phone camera and LED light in phone.
+- Interesting beacon project : Find near range people that are interested in same topics as you. From you profile grabbed from facebook linkedin or whatever mathches other people's profile and also financial details from the posts. it uses audio pulses to send and receive data for near field communication. Sends pulses every 5 seconds interval, or at smaller interval when moving and after long time if standing or sitting. Also target find diretly people using your current activity.
 
 --------------------------------------------------------------
 ## Contact us :
