@@ -38,6 +38,8 @@
 - Backup raspberry pi server for all laptop and other data backup using ssd.
 - Android LiFi communication using Phone camera and LED light in phone.
 - Interesting beacon project : Find near range people that are interested in same topics as you. From you profile grabbed from facebook linkedin or whatever mathches other people's profile and also financial details from the posts. it uses audio pulses to send and receive data for near field communication. Sends pulses every 5 seconds interval, or at smaller interval when moving and after long time if standing or sitting. Also target find diretly people using your current activity.
+- Chrome browser extention for automatically removing watermarks and superresolution on stock paid images using stable diffusion. Having initial free 5000 free image and paid after free quota complete. In extention setting one can turn on and off superresolution and watermark removal.
+- Test performance of genetics algoriths on algotrading.
 
 --------------------------------------------------------------
 ## Contact us :
