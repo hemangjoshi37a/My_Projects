@@ -40,6 +40,7 @@
 - Interesting beacon project : Find near range people that are interested in same topics as you. From you profile grabbed from facebook linkedin or whatever mathches other people's profile and also financial details from the posts. it uses audio pulses to send and receive data for near field communication. Sends pulses every 5 seconds interval, or at smaller interval when moving and after long time if standing or sitting. Also target find diretly people using your current activity.
 - Chrome browser extention for automatically removing watermarks and superresolution on stock paid images using stable diffusion. Having initial free 5000 free image and paid after free quota complete. In extention setting one can turn on and off superresolution and watermark removal.
 - Test performance of genetics algoriths on algotrading.
+- Adversarial attacks on chatbots in websites to gain authentication for admin access.
 
 --------------------------------------------------------------
 ## Contact us :
@@ -60,4 +61,5 @@
 - [Electric Bicycle](https://hjlabs.in/product/electric-bicycle)
 - [Product 3D Design Service with Solidworks](https://hjlabs.in/product/product-3d-design-with-solidworks/)
 - [AutoCut : Automatic Wire Cutter Machine](https://hjlabs.in/product/automatic-wire-cutter-machine/)
-- [Custom AlgoTrading Software Coding Services](https://hjlabs.in/product/custom-algotrading-software-for-zerodha-and-angel-w-source-code//)
+- [Custom AlgoTrading Software Coding Services](https://hjlabs.in/product/custom-algotrading-software-for-zerodha-and-angel-w-source-code/)
+- [SWiBoard :Tasmota MQTT Control](https://play.google.com/store/apps/details?id=in.hjlabs.swiboard)
