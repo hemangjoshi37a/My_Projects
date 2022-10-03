@@ -1,19 +1,12 @@
 ![](https://hjlabs.in/wp-content/uploads/2022/05/rainbow-text-1.png "Image Title")
 
 # Running Projects 
-#### [AutoCut V2](https://github.com/hemangjoshi37a/AutoCut) 
- - [ ] Online order for custom strip and cut sizes of wires. 
- - [ ] add online live video stream using esp32cam.
-#### AutoStrip. 
- - [ ] dis-assemble
-#### [SWiBoard (WiFi Switch Board Converter)](https://github.com/hemangjoshi37a/SWiBoard) 
- - [ ] Design custom case 
- - [ ] Order new acrylic parts.
- - [ ] Order new version custom PCB. 
- - [ ] Add documentation on github.
-#### [ESP Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
-#### ESP32 CCTV Cam with recording in SD card and with Audio.
-#### [App for SWiBoard (auto add device by scanning local network tasmota devices)](https://github.com/hemangjoshi37a/SWiBoard)
+- [AutoCut V2](https://github.com/hemangjoshi37a/AutoCut) 
+- AutoStrip. 
+- [SWiBoard (WiFi Switch Board Converter)](https://github.com/hemangjoshi37a/SWiBoard) 
+- [ESP Matrix Display](https://hjlabs.in/product/wifi-iot-led-display)
+- ESP32 CCTV Cam with recording in SD card and with Audio.
+- [App for SWiBoard (auto add device by scanning local network tasmota devices)](https://github.com/hemangjoshi37a/SWiBoard)
 
 # Future Projects 
 - ESP32 Cam based Multi-person-multi-camera-tracker-with-reidentification-and-database-logging-with-activity-identification.
@@ -40,7 +33,9 @@
 - Interesting beacon project : Find near range people that are interested in same topics as you. From you profile grabbed from facebook linkedin or whatever mathches other people's profile and also financial details from the posts. it uses audio pulses to send and receive data for near field communication. Sends pulses every 5 seconds interval, or at smaller interval when moving and after long time if standing or sitting. Also target find diretly people using your current activity.
 - Chrome browser extention for automatically removing watermarks and superresolution on stock paid images using stable diffusion. Having initial free 5000 free image and paid after free quota complete. In extention setting one can turn on and off superresolution and watermark removal.
 - Test performance of genetics algoriths on algotrading.
-- Adversarial attacks on chatbots in websites to gain authentication for admin access.
+- Adversarial attacks on AI/ML chatbots in websites to gain authentication for admin access.
+- Fridge cam for monitoring fridge items using machine learning what is available in the fridge using multiple camera and syncing items list in the cloud and personal app. Also contains touch display outside the fridge that can be magnetically stuck and interactively change camera views and list of items containing. Also auto slideshow for all these given screens.
+- A job platform where you pay in the form of time instead of money(or any type of physical(gold/silver/..),fiat(INR/UDS/GBP/..) or virtual currency(BTC/ETH/..)). Where time is the currency. How it works? There are two parties in a trade 1) Person buying goods/services pays the seller his time, in other words the buyer has to either has to work for certain hours for seller if he wants something from seller or he can pay other people's time that is in his wallet that has similar or higher PersonQuality-rating than him(buyer).Everything (all the transactions records) are maintained in a crypto bockchain, also the TAC(Time As Currency) wallet. For example if you want to buy groceries in a store you have to work for the defined time in that store or have to arrange someone that can work for that much time and has PersonQuality-rating same as you or better than yours. What is PersonQuality-rating? : It is rating given to buyer and seller to one-another and revealed only after both of them submit their ratings. 
 
 
 ------------------------------------------------------------------------------
